@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align = 'center'> Hi<img src = "https://media.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" width = "55px" height = "55px">, I'm Aishwariya </h1>
-<h3 align = 'center'>                    </h3>
+<h2 align = 'center'>An enthusiastic Web developer</h2>
+<p>• 🌱 I’m currently learning Node.js </p>
+<p>• 💬 Ask me about anything and I'll be happy to help </p>
+<p>• 📫 How to reach me: <a href = "aishwariyasasibabu02@gmail.com">@aishwariyasasibabu02</a></p>
+<p>• 😄 Pronouns: She/Her</p>
+<p>• ⚡ Fun fact: ...</p>
+  
