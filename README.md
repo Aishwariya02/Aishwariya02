@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align = 'center'> Hi<img src = "https://media.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" width = "55px" height = "55px">, I'm Aishwariya </h1>
 <h2 align = 'center'>An enthusiastic Learner</h2>
 <h3 align = 'center'>Currently doing MSc Theoretical Computer Science</h3>
-<p>• 🌱 I’m currently learning Node.js </p>
+<p>• 🌱 I’m currently learning Flutter & Dart </p>
 <p>• 💬 Ask me about anything and I'll be happy to help </p>
 <p>• 📫 How to reach me: <a href = "aishwariyasasibabu02@gmail.com">@aishwariyasasibabu02</a></p>
 <p>• 😄 Pronouns: She/Her</p>
