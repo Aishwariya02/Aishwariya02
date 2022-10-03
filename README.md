@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <a href = "www.linkedin.com/in/aishwariya-s-687a2a232"><img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href = "https://www.instagram.com/aishwariya._/"><img src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href = "https://twitter.com/aishu_sasibabu"><img src = "https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-<h2 align = 'left'> 💼Technical Skills: </h2>
+<h2 align = 'left'>Technical Skills: </h2>
 <h3 align = 'left'> Languages: </h3>
 <div>
 <img src= "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
