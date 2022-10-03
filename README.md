@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- 
 <h1 align = 'center'> Hi<img src = "https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" width = "55px" height = "55px">, I'm Aishwariya </h1>
-<h3 align = 'center'>Currently doing MSc Theoretical Computer Science in PSG College of Technology</h3>
+-->
+<h1 align = 'center'>&lt;<img src = "https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" width = "55px" height = "55px">Namaste, World! /&gt;</h1>
+<h3 align = 'center'>Hey there! I'm Aishwariya,<br>Currently pursuing 3rd year of 5 year Integrated M.Sc. Theoretical Computer Science at the Department of Applied Mathematics and Computational Sciences at PSG College of Technology.</h3><br>
 <p>• 🌱 I’m currently learning Flutter & Dart </p>
 <p>• 💬 Ask me about anything and I'll be happy to help </p>
 <p>• 📫 How to reach me: <a href = "mailto:aishwariyasasibabu02@gmail.com">@aishwariyasasibabu02</a></p>
