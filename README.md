@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align = 'center'>Currently doing MSc Theoretical Computer Science</h3>
 <p>• 🌱 I’m currently learning Flutter & Dart </p>
 <p>• 💬 Ask me about anything and I'll be happy to help </p>
-<p>• 📫 How to reach me: <a href = "aishwariyasasibabu02@gmail.com">@aishwariyasasibabu02</a></p>
+<p>• 📫 How to reach me: <a href = "mailto:aishwariyasasibabu02@gmail.com">@aishwariyasasibabu02</a></p>
 <p>• 😄 Pronouns: She/Her</p>
 <h2 align = 'left'>Connect with me on: </h2>
 <a href = "www.linkedin.com/in/aishwariya-s-687a2a232"><img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
