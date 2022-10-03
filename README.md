@@ -57,4 +57,9 @@ Here are some ideas to get you started:
 <img src = "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img src = "https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon">
 <img src = "https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+</div><br>
+<h2 align = 'left'>Stats:</h3>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aishwariya02&theme=synthwave" align = 'center'>
+<div>
+<img src = "https://github-readme-stats.vercel.app/api?username=aishwariya02&theme=synthwave">
 </div>
