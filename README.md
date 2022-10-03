@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 <p>• 📫 How to reach me: <a href = "aishwariyasasibabu02@gmail.com">@aishwariyasasibabu02</a></p>
 <p>• 😄 Pronouns: She/Her</p>
 <p>• ⚡ Fun fact: ...</p>
+<h3 align = 'left'>Connect with me on: </h3>
+<a href = "www.linkedin.com/in/aishwariya-s-687a2a232"><img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href = "https://www.instagram.com/aishwariya._/"><img src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href = "https://twitter.com/aishu_sasibabu"><img src = "https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 <h2 align = 'left'> 💼Technical Skills: </h2>
 <h3 align = 'left'> Languages: </h3>
 <div>
@@ -60,7 +64,7 @@ Here are some ideas to get you started:
 </div><br>
 <h2 align = 'left'>Stats:</h3>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aishwariya02&theme=synthwave" align = 'center'>
-<div>
+<div><br>
 <img src = "https://github-readme-stats.vercel.app/api?username=aishwariya02&theme=synthwave">
 </div><br>
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=aishwariya02&theme=synthwave">
