@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 <p>• 💬 Ask me about anything and I'll be happy to help </p>
 <p>• 📫 How to reach me: <a href = "mailto:aishwariyasasibabu02@gmail.com">@aishwariyasasibabu02</a></p>
 <p>• 😄 Pronouns: She/Her</p>
-<h2 align = 'left'>Connect with me on: </h2>
+<h2 align = 'left'>Connect with me </h2>
 <a href = "www.linkedin.com/in/aishwariya-s-687a2a232"><img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href = "https://www.instagram.com/aishwariya._/"><img src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href = "https://twitter.com/aishu_sasibabu"><img src = "https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-<h2 align = 'left'>My Skill Set: </h2>
+<h2 align = 'left'>My Skill Set </h2>
 <h3 align = 'left'> Languages: </h3>
 <div>
 <img src= "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 <img src = "https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon">
 <img src = "https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 </div><br>
-<h2 align = 'left'>Stats:</h3>
+<h2 align = 'left'>Stats</h3>
 <div>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aishwariya02&theme=synthwave">
 </div><br>
