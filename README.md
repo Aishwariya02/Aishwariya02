@@ -61,8 +61,10 @@ Here are some ideas to get you started:
 <img src = "https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 </div><br>
 <h2 align = 'left'>Stats:</h3>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aishwariya02&theme=synthwave" align = 'center'>
-<div><br>
+<div>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aishwariya02&theme=synthwave">
+</div><br>
+<div>
 <img src = "https://github-readme-stats.vercel.app/api?username=aishwariya02&theme=synthwave">
 </div><br>
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=aishwariya02&theme=synthwave">
