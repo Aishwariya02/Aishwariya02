@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align = 'center'> Hi<img src = "https://media.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" width = "55px" height = "55px">, I'm Aishwariya </h1>
-<h2 align = 'center'>An enthusiastic Web developer</h2>
+<h2 align = 'center'>An enthusiastic Learner</h2>
+<h3 align = 'center'>Currently doing MSc Theoretical Computer Science</h3>
 <p>• 🌱 I’m currently learning Node.js </p>
 <p>• 💬 Ask me about anything and I'll be happy to help </p>
 <p>• 📫 How to reach me: <a href = "aishwariyasasibabu02@gmail.com">@aishwariyasasibabu02</a></p>
@@ -30,6 +31,12 @@ Here are some ideas to get you started:
 <img src = "https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
 <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
 <img src = "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> 
+</div>
+<h3 align = 'left'>Databases:</h3>
+<div>
+<img src = "https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+<img src = "https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src = "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 <h3 align = 'left'>Editors:</h3>
 <div>
