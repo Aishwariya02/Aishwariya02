@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align = 'center'> Hi<img src = "https://media.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" width = "55px" height = "55px">, I'm Aishwariya </h1>
+<h1 align = 'center'> Hi<img src = "https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" width = "55px" height = "55px">, I'm Aishwariya </h1>
 <h3 align = 'center'>Currently doing MSc Theoretical Computer Science in PSG College of Technology</h3>
 <p>• 🌱 I’m currently learning Flutter & Dart </p>
 <p>• 💬 Ask me about anything and I'll be happy to help </p>
