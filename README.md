@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <p>• 📫 How to reach me: <a href = "aishwariyasasibabu02@gmail.com">@aishwariyasasibabu02</a></p>
 <p>• 😄 Pronouns: She/Her</p>
 <p>• ⚡ Fun fact: ...</p>
-<h3 align = 'left'>Connect with me on: </h3>
+<h2 align = 'left'>Connect with me on: </h2>
 <a href = "www.linkedin.com/in/aishwariya-s-687a2a232"><img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href = "https://www.instagram.com/aishwariya._/"><img src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href = "https://twitter.com/aishu_sasibabu"><img src = "https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
